@@ -1,0 +1,8 @@
+C:\Users\Ashok\Desktop\anita.net\labAssignment1\obj\Debug\labAssignment1.csproj.AssemblyReference.cache
+C:\Users\Ashok\Desktop\anita.net\labAssignment1\obj\Debug\labAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Ashok\Desktop\anita.net\labAssignment1\bin\Debug\labAssignment1.exe.config
+C:\Users\Ashok\Desktop\anita.net\labAssignment1\bin\Debug\labAssignment1.exe
+C:\Users\Ashok\Desktop\anita.net\labAssignment1\bin\Debug\labAssignment1.pdb
+C:\Users\Ashok\Desktop\anita.net\labAssignment1\obj\Debug\labAssignment1.exe
+C:\Users\Ashok\Desktop\anita.net\labAssignment1\obj\Debug\labAssignment1.pdb
+C:\Users\Ashok\Desktop\anita.net\labAssignment1\obj\Debug\labAssignment1.exe.config
