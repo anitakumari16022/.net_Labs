@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace labAssignment1
 {
-    internal class fileanyway
+    internal class extra
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ncjnvj");        }
+            for (int i = 0; i < 5; i++ ) {
+                Console.WriteLine("ncjnvj");
+            }
         }
+    }
 }
+

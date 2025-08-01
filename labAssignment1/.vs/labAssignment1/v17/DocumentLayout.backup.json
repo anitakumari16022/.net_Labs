@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|c:\\users\\ashok\\desktop\\anita.net\\labassignment1\\assignmet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|solutionrelative:assignmet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|c:\\users\\ashok\\desktop\\anita.net\\labassignment1\\extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|solutionrelative:extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|c:\\users\\ashok\\desktop\\anita.net\\labassignment1\\fileanyway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|solutionrelative:fileanyway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\assignmet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80B53EB-6496-4B70-92B5-33BF0489EBC0}|labAssignment1.csproj|solutionrelative:assignmet2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "extra.cs",
+              "DocumentMoniker": "C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\extra.cs",
+              "RelativeDocumentMoniker": "extra.cs",
+              "ToolTip": "C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\extra.cs",
+              "RelativeToolTip": "extra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:49:09.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fileanyway.cs",
+              "DocumentMoniker": "C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\fileanyway.cs",
+              "RelativeDocumentMoniker": "fileanyway.cs",
+              "ToolTip": "C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\fileanyway.cs",
+              "RelativeToolTip": "fileanyway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:24:57.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "assignmet2.cs",
               "DocumentMoniker": "C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\assignmet2.cs",
               "RelativeDocumentMoniker": "assignmet2.cs",
@@ -38,18 +72,17 @@
               "RelativeToolTip": "assignmet2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:05:11.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T17:05:11.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Ashok\\Desktop\\anita.net\\labAssignment1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T15:19:32.614Z"
             }
